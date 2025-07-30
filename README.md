@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Xin chào! Mình là Phú</h1>
 
-<!--
-**phudev07/phudev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 Developer yêu thích Python, tự động hóa<br>
+  🛠 Chuyên làm tool ADB, GUI, PyQt6, và data<br>
+  ✨ Luôn học hỏi, chia sẻ, và viết code sạch
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Một số công nghệ mình đang dùng:
+- 💻 Python, PyQt6, BeautifulSoup, requests
+- 📱 Android Debug Bridge (ADB)
+- 📊 Google Sheets API, gspread
+- 🔁 Automation, file XML, xử lý dữ liệu
+
+---
+
+### 📫 Liên hệ mình:
+- Telegram: [@phptoolvip](https://t.me/phptoolvip)
+
+---
+
+> 🌱 *Mục tiêu 2025: Làm sản phẩm thật dùng được, không chỉ là demo.*
