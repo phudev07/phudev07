@@ -74,8 +74,6 @@
 
 ## 📊 Thống kê GitHub
 
-## 📊 Thống kê GitHub
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phudev07&color=orange&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
