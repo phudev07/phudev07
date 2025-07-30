@@ -26,10 +26,10 @@
 ✨ Mình luôn tìm tòi những thứ mới và cố gắng viết code thật gọn gàng, dễ hiểu.
 
 ---
-> 🔭 Ngôn ngữ sở trường python
-> 💡 Đang làm quen với C++, thuật toán và học english
-> ⚡ Hiện đang học sâu hơn về Python, Request
-> 🌱 Mục tiêu: Làm ra sản phẩm thực tế giúp ích cho người khác
+🔭 Ngôn ngữ sở trường python
+💡 Đang làm quen với C++, thuật toán và học english
+⚡ Hiện đang học sâu hơn về Python, Request
+🌱 Mục tiêu: Làm ra sản phẩm thực tế giúp ích cho người khác
 
 ---
 
