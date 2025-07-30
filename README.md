@@ -1,24 +1,37 @@
-<h1 align="center">👋 Xin chào! Mình là Phú</h1>
+<h1 align="center">Xin chào! Tôi là Phạm Hải Phú 👋</h1>
 
 <p align="center">
-  🧑‍💻 Developer yêu thích Python, tự động hóa<br>
-  🛠 Chuyên làm tool ADB, GUI, PyQt6, và data<br>
-  ✨ Luôn học hỏi, chia sẻ, và viết code sạch
+  <a href="https://www.facebook.com/phamhaiphu250107/" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@php-tool007" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://zalo.me/0853408135" target="_blank">
+    <img src="https://img.shields.io/badge/ZALO-0068FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/phudev07/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔧 Một số công nghệ mình đang dùng:
-- 💻 Python, PyQt6, BeautifulSoup, requests
-- 📱 Android Debug Bridge (ADB)
-- 📊 Google Sheets API, gspread
-- 🔁 Automation, file XML, xử lý dữ liệu
+## 💻 Về tôi
+
+🧑‍💻 Tôi là một lập trình viên thích xây tool, tự động hóa, PyQt6, Android ADB...  
+✨ Mình luôn tìm tòi những thứ mới và cố gắng viết code thật gọn gàng, dễ hiểu.
+
+---
+> 🔭 Ngôn ngữ sở trường python
+> 💡 Đang làm quen với C++, thuật toán và học english
+> ⚡ Hiện đang học sâu hơn về Python, Request
+> 🌱 Mục tiêu: Làm ra sản phẩm thực tế giúp ích cho người khác
 
 ---
 
 ### 📫 Liên hệ mình:
 - Telegram: [@phptoolvip](https://t.me/phptoolvip)
-
----
-
-> 🌱 *Mục tiêu 2025: Làm sản phẩm thật dùng được, không chỉ là demo.*
