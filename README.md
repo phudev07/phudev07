@@ -36,3 +36,52 @@
 
 ### 📫 Liên hệ mình:
 - Telegram: [@phptoolvip](https://t.me/phptoolvip)
+
+---
+
+## 📦 Dự án của tôi
+
+- 🔹 [Reg fb](https://github.com/your_username/hotmail-oauth2)  
+  Công cụ tạo tài khoản facebook
+
+  ---
+
+  ## 🛠️ Kỹ năng & Công cụ
+
+### 🔹 Ngôn ngữ lập trình:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![cURL](https://img.shields.io/badge/-cURL-0077B5?style=flat-square&logo=curl&logoColor=white)
+
+---
+
+### 🔹 Công cụ & Frameworks:
+
+![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-FF6C37?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+## 📊 Thống kê GitHub
+
+![Profile Views](https://komarev.com/ghpvc/?username=phudev07&color=orange&label=PROFILE+VIEWS)
+
+### 🧠 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phudev07&show_icons=true&theme=radical)
+
+### 🔥 Ngôn ngữ sử dụng nhiều
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phudev07&layout=compact&theme=radical)
+
+
