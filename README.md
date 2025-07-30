@@ -74,14 +74,16 @@
 
 ## 📊 Thống kê GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=phudev07&color=orange&label=PROFILE+VIEWS)
+## 📊 Thống kê GitHub
 
-### 🧠 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phudev07&color=orange&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phudev07&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phudev07&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phudev07&layout=compact&theme=radical" height="165"/>
+</p>
 
-### 🔥 Ngôn ngữ sử dụng nhiều
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phudev07&layout=compact&theme=radical)
 
 
