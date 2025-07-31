@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/phudev07/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://phudev07.github.io/profile/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
