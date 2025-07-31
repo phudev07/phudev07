@@ -1,3 +1,13 @@
+<table>
+  <tr>
+    <td align="center" style="background-color:#4a4a4a; color:white; padding:6px 10px; font-size:12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Translate_Icon.png" width="16" style="vertical-align:middle;"> LANGUAGE
+    </td>
+    <td align="center" style="background-color:#007bdb; color:white; padding:6px 12px; font-size:12px; font-weight:bold;">
+      ENGLISH
+    </td>
+  </tr>
+</table>
 <h1 align="center">Xin chào! Tôi là Phạm Hải Phú 👋</h1>
 
 <p align="center">
