@@ -23,7 +23,7 @@
 
 ## 💻 Về tôi
 
-🧑‍💻 Tôi là một lập trình viên thích xây tool tự động hóa, làm website,... 
+🧑‍💻 Tôi là một lập trình viên thích xây tool tự động hóa, làm website.
 ✨ Mình luôn tìm tòi những thứ mới và cố gắng viết code thật gọn gàng, dễ hiểu.
 
 ---
