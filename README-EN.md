@@ -23,14 +23,14 @@
 
 ## 💻 About Me
 
-🧑‍💻 I'm a developer passionate about building tools, automation, PyQt6, and Android ADB.  
+🧑‍💻 I'm a developer passionate about building tools automation, website...    
 ✨ I love exploring new technologies and strive to write clean, understandable code.
 
 ---
 
 🔭 Main language: **Python**  
 💡 Currently learning **C++**, **algorithms**, and **English**  
-⚡ Deep diving into: **Python requests**, **gspread**, and **automation**  
+⚡ Deep diving into: **HTML**, **CSS**, **Javascript**  
 🌱 Goal: Build real-world products that help others
 
 ---
@@ -42,8 +42,8 @@
 
 ## 📦 My Projects
 
-- 🔹 [Reg fb](https://github.com/your_username/hotmail-oauth2)  
-  A tool for creating Facebook accounts
+- 🔹 [Waiting for upgrade](https://github.com/your_username/hotmail-oauth2)  
+  Updating
 
 ---
 
