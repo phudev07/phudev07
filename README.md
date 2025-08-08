@@ -23,14 +23,14 @@
 
 ## 💻 Về tôi
 
-🧑‍💻 Tôi là một lập trình viên thích xây tool, tự động hóa, PyQt6, Android ADB...  
+🧑‍💻 Tôi là một lập trình viên thích xây tool tự động hóa, làm website,... 
 ✨ Mình luôn tìm tòi những thứ mới và cố gắng viết code thật gọn gàng, dễ hiểu.
 
 ---
 
 🔭 Ngôn ngữ sở trường: **Python**  
 💡 Đang làm quen với **C++**, **thuật toán**, và **học tiếng Anh**  
-⚡ Hiện đang đào sâu hơn về: **Python requests**, **gspread**, **automation**  
+⚡ Hiện đang đào sâu hơn về: **HTML**, **CSS**, **Javascript**  
 🌱 Mục tiêu: Làm ra sản phẩm thực tế giúp ích cho người khác
 
 ---
@@ -42,8 +42,8 @@
 
 ## 📦 Dự án của tôi
 
-- 🔹 [Reg fb](https://github.com/your_username/hotmail-oauth2)  
-  Công cụ tạo tài khoản facebook
+- 🔹 [Chưa có dữ liệu](https://github.com/your_username/hotmail-oauth2)  
+  Đang cập nhật...
 
   ---
 
